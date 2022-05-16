@@ -8,8 +8,9 @@ Simple business customizable web theme. <br>
 <img src="https://user-images.githubusercontent.com/81925511/168595002-dbcc7875-ef1e-464c-bacb-600184bdf431.PNG" width="250" /><br>
 
 <h2>Example View: </h1><br>
-<img src ="https://user-images.githubusercontent.com/81925511/168595113-2e16ad7b-8bdd-4f1e-b13c-d8511cc10816.PNG" width="650" height="350"/><br><br>
+<img src ="https://user-images.githubusercontent.com/81925511/168595113-2e16ad7b-8bdd-4f1e-b13c-d8511cc10816.PNG" width="650" height="350"/><br>
 <hr>
-A template that I designed and frequently used with the Mobirise application.<br>
+<h3>Note: A template that I designed and frequently used with the Mobirise application.<br>
 It can be used for html/css design for businesses. <br>
 Editable.
+</h3>
